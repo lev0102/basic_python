@@ -20,5 +20,5 @@ for i in range(len(list)):
 for index, element in enumerate(list):
     print(index, element)#值加其順序(以上功能相加)
 
-#雞雞
+#雞雞 git clone github url
 #homeworkstation push success?
